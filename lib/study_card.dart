@@ -2,7 +2,7 @@ class StudyCard {
   String question;
   List<String> answers;
 
-  StudyCard({this.question, this.answers});
+  StudyCard(this.question, this.answers);
 
   StudyCard.fromJson(Map<String, dynamic> json) {
     question = json['question'];
