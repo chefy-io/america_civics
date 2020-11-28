@@ -279,10 +279,7 @@
 	"answers":["(Battle of) Fort Sumter", "Emancipation Proclamation", "(Battle of) Vicksburg", "(Battle of) Gettysburg", "Sherman's March", "(Surrender at) Appomattox", "(Battle of) Antietam/Sharpsburg", "Lincoln was assassinated."]
 }, {
 	"question":"94.Abraham Lincoln is famous for many things. Name one.",
-	"answers":["Freed the slaves (Emancipation Proclamation)", "Saved (or preserved) the Union", "Led the United States during the Civil War"]
-}, {
-	"question":"16th president of the United States",
-	"answers":["Delivered the Gettysburg Address"]
+	"answers":["Freed the slaves (Emancipation Proclamation)", "Saved (or preserved) the Union", "Led the United States during the Civil War", "16th president of the United States", "Delivered the Gettysburg Address"]
 }, {
 	"question":"95.What did the Emancipation Proclamation do?",
 	"answers":["Freed the slaves", "Freed slaves in the Confederacy", "Freed slaves in the Confederate states", "Freed slaves in most Southern states"]
@@ -291,16 +288,10 @@
 	"answers":["The Civil War"]
 }, {
 	"question":"97. What amendment gives citizenship to all persons born in the United States?",
-	"answers":[]
-}, {
-	"question":"14th Amendment",
-	"answers":[]
+	"answers":["14th Amendment"]
 }, {
 	"question":"98. When did all men get the right to vote?",
-	"answers":["After the Civil War", "During Reconstruction", "(With the) 15th Amendment"]
-}, {
-	"question":"1870",
-	"answers":[]
+	"answers":["1870","After the Civil War", "During Reconstruction", "(With the) 15th Amendment"]
 }, {
 	"question":"99. Name one leader of the women's rights movement in the 1800s.",
 	"answers":["Susan B. Anthony", "Elizabeth Cady Stanton", "Sojourner Truth", "Harriet Tubman", "Lucretia Mott", "Lucy Stone", "C: Recent American History and Other Important Historical Information"]
@@ -312,10 +303,7 @@
 	"answers":["Because Germany attacked U.S. (civilian) ships", "To support the Allied Powers (England, France, Italy, and Russia)", "To oppose the Central Powers (Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria)"]
 }, {
 	"question":"102. When did all women get the right to vote?",
-	"answers":[]
-}, {
-	"question":"1920",
-	"answers":["After World War I", "(With the) 19th Amendment"]
+	"answers":["1920", "After World War I", "(With the) 19th Amendment"]
 }, {
 	"question":"103. What was the Great Depression?",
 	"answers":["Longest economic recession in modern history"]
@@ -330,10 +318,7 @@
 	"answers":["(Bombing of) Pearl Harbor", "Japanese attacked Pearl Harbor", "To support the Allied Powers (England, France, and Russia)", "To oppose the Axis Powers (Germany, Italy, and Japan)"]
 }, {
 	"question":"107. Dwight Eisenhower is famous for many things. Name one.",
-	"answers":["General during World War II", "President at the end of (during) the Korean War"]
-}, {
-	"question":"34th president of the United States",
-	"answers":["Signed the Federal-Aid Highway Act of 1956 (Created the Interstate System)"]
+	"answers":["General during World War II", "President at the end of (during) the Korean War", "34th president of the United States", "Signed the Federal-Aid Highway Act of 1956 (Created the Interstate System)"]
 }, {
 	"question":"108. Who was the United States' main rival during the Cold War?",
 	"answers":["Soviet Union", "USSR", "Russia"]
